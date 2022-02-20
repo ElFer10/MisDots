@@ -45,6 +45,7 @@ set noshowcmd
 set noshowmode
 set nowrap
 set number relativenumber
+set numberwidth=5
 set shiftwidth=4
 set showmatch
 set softtabstop=4

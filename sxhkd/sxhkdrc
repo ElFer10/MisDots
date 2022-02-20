@@ -1,0 +1,5 @@
+super + s
+   scrot -p -q 100 ~/Pictures/capturas/%Y-%m-%d-%T-captura.png
+
+super + S
+   scrot --delay 5 -p -q 100 ~/Pictures/capturas/%Y-%m-%d-%T-captura.png

@@ -1,0 +1,26 @@
+setopt autocd extendedglob nomatch menucompleteii
+setopt interactive_comments
+
+export EDITOR="nvim"
+export TERMINAL="st"
+export BROWSER="firefox"
+autoload -U colors && colors	# Load colors
+PS1="%B%{$fg[red]%}[%{$fg[yellow]%}%n%{$fg[green]%}@%{$fg[blue]%}%M %{$fg[magenta]%}%~%{$fg[red]%}]%{$reset_color%}$%b "
+
+
+alias grep="grep --color=auto"
+alias cp="cp -iv"
+alias e="$EDITOR"
+alias mv="mv -iv"
+alias rm="rm -vI" 
+alias bc="bc -ql" 
+alias mkd="mkdir -pv" 
+alias ls="ls -l --color=auto --group-directories-first"
+alias vim="nvim"
+alias pacman="sudo pacman"
+alias ip="ip -c"
+alias d="cd ~/suckless/2022/dwm"
+
+export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/.config/composer/vendor/bin:$PATH"
+

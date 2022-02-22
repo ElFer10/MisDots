@@ -98,3 +98,5 @@ nnoremap <leader>mm :w! \| !markmap --no-toolbar %
 
 " Cosas para COC
 source $HOME/.config/nvim/plug-config/coc.vim
+
+let g:vimwiki_list = [{'path': '~/vimwiki/', 'syntax': 'markdown', 'ext': '.md'}]

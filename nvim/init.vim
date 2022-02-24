@@ -8,6 +8,8 @@ call plug#begin('~/local/share/nvim/plugged')
     Plug 'sheerun/vim-polyglot'
     Plug 'junegunn/fzf'
     Plug 'junegunn/fzf.vim'
+    Plug 'junegunn/goyo.vim'
+    Plug 'junegunn/limelight.vim'
     Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
     Plug 'mattn/emmet-vim'
     Plug 'othree/javascript-libraries-syntax.vim'
@@ -20,6 +22,7 @@ call plug#begin('~/local/share/nvim/plugged')
     Plug 'vimwiki/vimwiki'
     Plug 'airblade/vim-gitgutter'
     Plug 'tpope/vim-fugitive'
+    Plug 'flazz/vim-colorschemes'
 call plug#end()
 
 filetype plugin indent on
@@ -59,6 +62,7 @@ set wildmode=longest,list,full
 syntax on
 
 colorscheme onedark
+"colorscheme wombat
 
 nmap <C-n> :NERDTreeToggle<CR>
 let g:user_emmet_expandabbr_key = '<C-a>,'
@@ -99,4 +103,19 @@ nnoremap <leader>mm :w! \| !markmap --no-toolbar %
 " Cosas para COC
 source $HOME/.config/nvim/plug-config/coc.vim
 
-let g:vimwiki_list = [{'path': '~/vimwiki/', 'syntax': 'markdown', 'ext': '.md'}]
+"VimWiki
+
+let wiki_1 = {}
+let wiki_1.path = '~/vimwiki/' 
+let wiki_1.syntax = 'markdown'
+let wiki_1.ext = 'md'
+
+let wiki_2 = {}
+let wiki_2.path = '~/vimwiki/sueco/' 
+let wiki_2.syntax = 'markdown'
+let wiki_2.ext = 'md'
+
+let g:vimwiki_list = [wiki_1, wiki_2]
+
+"let g:vimwiki_list = [{'path': '~/vimwiki/', 'syntax': 'markdown', 'ext': '.md'}]
+

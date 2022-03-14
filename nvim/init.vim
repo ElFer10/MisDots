@@ -39,6 +39,7 @@ call plug#begin('~/local/share/nvim/plugged')
     Plug 'tpope/vim-fugitive'
 "    Plug 'flazz/vim-colorschemes'
     Plug 'godlygeek/tabular'
+    Plug 'jremmen/vim-ripgrep'
 call plug#end()
 
 " =================================
@@ -71,13 +72,13 @@ set noshowmode
 set nowrap
 set number relativenumber
 set numberwidth=5
-set shiftwidth=4
+set shiftwidth=2
 set showmatch
-set softtabstop=4
+set softtabstop=2
 set spelllang=es
 set splitbelow
 set splitright
-set tabstop=4
+set tabstop=2
 set title
 set ttyfast
 set wildmode=longest,list,full
@@ -149,6 +150,8 @@ let wiki_2.ext = 'md'
 
 let g:vimwiki_list = [wiki_1, wiki_2]
 
+
+
 " =================================
 "  AUTOMATIZACIONES
 " =================================
@@ -165,3 +168,12 @@ cnoremap w!! execute 'silent! write !sudo tee % >/dev/null' <bar> edit!
 autocmd BufRead,BufNewFile /tmp/calcurse*,~/.calcurse/notes/* set filetype=markdown
 autocmd BufRead,BufNewFile *.ms,*.me,*.mom,*.man set filetype=groff
 autocmd BufRead,BufNewFile *.tex set filetype=tex
+
+"=================================="
+"        VIMWIKI Markdown Cmd's    "
+"=================================="
+" ~~~~~ Diary Template
+inoremap <leader>log # <++><CR><CR><++><CR><CR>## Morning Journal<CR><CR>*<CR><Esc>!!date<CR>A*<Esc>kJxA<CR><CR>### Goals<CR><CR><Esc>!!grep "\- \[ \]" ~/Documents/2020Goals.md<CR>Go<CR>#### To Work Towards My Goals Today I Will...<CR><CR><++><CR><CR>### Happenings Today?<CR><CR><++><CR><CR>### Grateful For?<CR><CR><++><CR><CR>### Thoughts?<CR><CR><++><CR><CR>## Training Log<CR><CR><++><CR><CR>## DevLog<CR><CR><++><CR><CR><Esc>gg
+" ~~~~~ This inputs a NOW() timestamp
+inoremap <leader>!h *<CR><Esc>!!date<CR>A*<Esc>kJxA<CR><CR>
+nnoremap <leader>t :Rg :

@@ -40,6 +40,12 @@ call plug#begin('~/local/share/nvim/plugged')
 "    Plug 'flazz/vim-colorschemes'
     Plug 'godlygeek/tabular'
     Plug 'jremmen/vim-ripgrep'
+Plug 'nvim-lua/popup.nvim'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim'
+Plug 'nvim-telescope/telescope-media-files.nvim'
+Plug 'renerocksai/telekasten.nvim'
+Plug 'renerocksai/calendar-vim'
 call plug#end()
 
 " =================================

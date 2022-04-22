@@ -46,6 +46,7 @@ Plug 'nvim-telescope/telescope.nvim'
 Plug 'nvim-telescope/telescope-media-files.nvim'
 Plug 'renerocksai/telekasten.nvim'
 Plug 'renerocksai/calendar-vim'
+Plug 'stevearc/vim-arduino'
 call plug#end()
 
 " =================================
@@ -183,3 +184,9 @@ inoremap <leader>log # <++><CR><CR><++><CR><CR>## Morning Journal<CR><CR>*<CR><E
 " ~~~~~ This inputs a NOW() timestamp
 inoremap <leader>!h *<CR><Esc>!!date<CR>A*<Esc>kJxA<CR><CR>
 nnoremap <leader>t :Rg :
+
+"====================================
+"           TELEKASTEN
+"====================================
+
+

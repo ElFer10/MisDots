@@ -1,0 +1,1 @@
+{Intel/Mesa Intel(R) Iris(R) Pro Graphics 6200 (BDW GT3)/4.6 (Core Profile) Mesa 21.3.7}=SUPPORTED

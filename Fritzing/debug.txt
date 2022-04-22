@@ -1,0 +1,78 @@
+got transaction
+no connector is found for bus nodeMember connector0 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector16 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector55 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector56 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector10 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector24 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector47 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector9 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector26 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector53 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector54 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart3' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector16 in <module moduleId='onoffshim_85f2f08e565750030faf26f30b4ef33c_1' referenceFile='Raspberry_Pi_Zero_1.fzp' fritzingVersion='0.9.3b'/>
+no connector is found for bus nodeMember connector19 in <module moduleId='onoffshim_85f2f08e565750030faf26f30b4ef33c_1' referenceFile='Raspberry_Pi_Zero_1.fzp' fritzingVersion='0.9.3b'/>
+no connector is found for bus nodeMember connector24 in <module moduleId='onoffshim_85f2f08e565750030faf26f30b4ef33c_1' referenceFile='Raspberry_Pi_Zero_1.fzp' fritzingVersion='0.9.3b'/>
+no connector is found for bus nodeMember connector29 in <module moduleId='onoffshim_85f2f08e565750030faf26f30b4ef33c_1' referenceFile='Raspberry_Pi_Zero_1.fzp' fritzingVersion='0.9.3b'/>
+no connector is found for bus nodeMember connector33 in <module moduleId='onoffshim_85f2f08e565750030faf26f30b4ef33c_1' referenceFile='Raspberry_Pi_Zero_1.fzp' fritzingVersion='0.9.3b'/>
+no connector is found for bus nodeMember connector38 in <module moduleId='onoffshim_85f2f08e565750030faf26f30b4ef33c_1' referenceFile='Raspberry_Pi_Zero_1.fzp' fritzingVersion='0.9.3b'/>
+no connector is found for bus nodeMember connector47 in <module moduleId='SonySpresense_CXD5602PWBLM1_003' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector0 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector16 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector34 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector30 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector10 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector24 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector47 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector9 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector26 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector33 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart4' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector0 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector16 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector34 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector30 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector55 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector56 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector10 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector24 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector47 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector9 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector33 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector53 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector54 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart2' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector32 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector60 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector33 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector59 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector30 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector55 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector56 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector45 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector57 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector29 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector58 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector14 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector28 in <module moduleId='Eric_d0eaed56260dd65e5641982bd03333c7_5' referenceFile='Arduino Nano3(fix).fzp' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector34 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart1' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector30 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart1' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector55 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart1' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector56 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart1' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector47 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart1' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector26 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart1' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector33 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart1' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector53 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart1' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector54 in <module moduleId='SonySpresense_CXD5602PWBLM1_003_subpart1' fritzingVersion='0.9.7'/>
+no connector is found for bus nodeMember connector32 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector60 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector33 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector59 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector30 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector55 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector56 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector45 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector57 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector29 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector58 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector14 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+no connector is found for bus nodeMember connector28 in <module moduleId='Blend_Micro_1.0' fritzingVersion='0.5.2b.02.18.4756'/>
+referenceModel::loadAll completed
